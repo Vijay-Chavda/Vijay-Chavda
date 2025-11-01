@@ -151,7 +151,7 @@ I'm always eager to connect with fellow developers, discuss new ideas, and explo
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaychavdap@gmail.com) 
 
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com) <!-- TODO: Add your blog, if separate from portfolio -->
+
 
 ### 📱 Social Presence
 
